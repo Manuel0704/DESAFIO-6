@@ -1,0 +1,20 @@
+[
+    {
+        "name": "pollo",
+        "price": 15,
+        "image": "https://i.blogs.es/8ceb02/pollo_entero/1366_2000.jpg",
+        "id": 1
+    },
+    {
+        "name": "arroz",
+        "price": 12,
+        "image": "https://www.recetasderechupete.com/wp-content/uploads/2019/08/Arroz-blanco.jpg",
+        "id": 1
+    },
+    {
+        "name": "pavo",
+        "price": 90,
+        "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2020/11/como-hacer-pavo.jpg",
+        "id": 3
+    }
+]
