@@ -4,7 +4,7 @@
   "description": "",
   "main": "src.js",
   "scripts": {
-    "start": "node src.js"
+    "start": "node expressTest.js"
   },
   "author": "",
   "license": "ISC",
